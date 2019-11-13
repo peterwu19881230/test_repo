@@ -1,0 +1,450 @@
+gene	old_modules	new_modules
+nuoB	"eco_M00144  NADH:quinone oxidoreductase, prokaryotes"	
+hflK	"eco_M00742  Aminoglycoside resistance, protease FtsH"	
+phoQ	"eco_M00444  PhoQ-PhoP (magnesium transport) two-component regulatory system, eco_M00709  Macrolide resistance, MacAB-TolC transporter, eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00723  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptB, eco_M00724  Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP"	
+atoS	eco_M00500  AtoS-AtoC (cPHB biosynthesis) two-component regulatory system	
+barA	eco_M00475  BarA-UvrY (central carbon metabolism) two-component regulatory system	
+uhpA	eco_M00473  UhpB-UhpA (hexose phosphates uptake) two-component regulatory system	
+basR	"eco_M00451  BasS-BasR (antimicrobial peptide resistance) two-component regulatory system, eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00722  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptA"	
+cusR	eco_M00452  CusS-CusR (copper tolerance) two-component regulatory system	
+hflC	"eco_M00742  Aminoglycoside resistance, protease FtsH"	
+dpiB	eco_M00486  CitA-CitB (citrate fermentation) two-component regulatory system	
+phoP	"eco_M00444  PhoQ-PhoP (magnesium transport) two-component regulatory system, eco_M00709  Macrolide resistance, MacAB-TolC transporter, eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00723  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptB, eco_M00724  Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP"	
+atoC	eco_M00500  AtoS-AtoC (cPHB biosynthesis) two-component regulatory system	
+qseB	eco_M00453  QseC-QseB (quorum sensing) two-component regulatory system	
+glnG	eco_M00497  GlnL-GlnG (nitrogen regulation) two-component regulatory system	
+dcuR	eco_M00488  DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system	
+cpsB	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes"	
+envZ	"eco_M00445  EnvZ-OmpR (osmotic stress response) two-component regulatory system, eco_M00742  Aminoglycoside resistance, protease FtsH, eco_M00743  Aminoglycoside resistance, protease HtpX"	
+htpX	"eco_M00743  Aminoglycoside resistance, protease HtpX"	
+dpiA	eco_M00486  CitA-CitB (citrate fermentation) two-component regulatory system	
+narL	eco_M00471  NarX-NarL (nitrate respiration) two-component regulatory system	
+uvrY	eco_M00475  BarA-UvrY (central carbon metabolism) two-component regulatory system	
+evgA	"eco_M00477  EvgS-EvgA (acid and drug tolerance) two-component regulatory system, eco_M00697  Multidrug resistance, efflux pump MdtEF-TolC"	"eco_M00697  Multidrug resistance, efflux pump MdtEF-TolC"
+qseC	eco_M00453  QseC-QseB (quorum sensing) two-component regulatory system	
+glnL	eco_M00497  GlnL-GlnG (nitrogen regulation) two-component regulatory system	
+dcuS	eco_M00488  DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system	
+rbsB	eco_M00212  Ribose transport system	
+glgC		"eco_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch"
+degP	"eco_M00728  Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading factors DegP and DsbA"	
+soxS	"eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF"	
+narX	eco_M00471  NarX-NarL (nitrate respiration) two-component regulatory system	
+evgS	eco_M00477  EvgS-EvgA (acid and drug tolerance) two-component regulatory system	
+cpxA	"eco_M00447  CpxA-CpxR (envelope stress response) two-component regulatory system, eco_M00727  Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC, eco_M00728  Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading factors DegP and DsbA"	
+creB	eco_M00449  CreC-CreB (phosphate regulation) two-component regulatory system	
+oppA	eco_M00439  Oligopeptide transport system	
+arnD	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"	"eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"
+kdpD	eco_M00454  KdpD-KdpE (potassium transport) two-component regulatory system	
+narQ	eco_M00472  NarQ-NarP (nitrate respiration) two-component regulatory system	
+arcB	eco_M00456  ArcB-ArcA (anoxic redox control) two-component regulatory system	
+cpxR	"eco_M00447  CpxA-CpxR (envelope stress response) two-component regulatory system, eco_M00727  Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC, eco_M00728  Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading factors DegP and DsbA"	
+creC	eco_M00449  CreC-CreB (phosphate regulation) two-component regulatory system	
+pgm	"eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose"	"eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose, eco_M00855  Glycogen degradation, glycogen => glucose-6P"
+potH	eco_M00300  Putrescine transport system	
+gspO	eco_M00331  Type II general secretion pathway	
+arnE	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon"	
+rstA	eco_M00446  RstB-RstA two-component regulatory system	
+baeS	"eco_M00450  BaeS-BaeR (envelope stress response) two-component regulatory system, eco_M00646  Multidrug resistance, efflux pump AcrAD-TolC, eco_M00648  Multidrug resistance, efflux pump MdtABC"	
+yfhA	eco_M00502  GlrK-GlrR (amino sugar metabolism) two-component regulatory system	
+ompR	"eco_M00445  EnvZ-OmpR (osmotic stress response) two-component regulatory system, eco_M00742  Aminoglycoside resistance, protease FtsH, eco_M00743  Aminoglycoside resistance, protease HtpX"	
+zraS	eco_M00499  HydH-HydG (metal tolerance) two-component regulatory system	
+arcA	eco_M00456  ArcB-ArcA (anoxic redox control) two-component regulatory system	
+gspA	eco_M00331  Type II general secretion pathway	
+moaA		"eco_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+rhlB	eco_M00394  RNA degradosome	
+pppA	eco_M00331  Type II general secretion pathway	
+phoB	eco_M00434  PhoR-PhoB (phosphate starvation response) two-component regulatory system	
+rstB	eco_M00446  RstB-RstA two-component regulatory system	
+narP	eco_M00472  NarQ-NarP (nitrate respiration) two-component regulatory system	
+rpoZ	"eco_M00183  RNA polymerase, bacteria"	
+zraR	eco_M00499  HydH-HydG (metal tolerance) two-component regulatory system	
+phoR	eco_M00434  PhoR-PhoB (phosphate starvation response) two-component regulatory system	
+torR	eco_M00455  TorS-TorR (TMAO respiration) two-component regulatory system	
+rcsB	eco_M00474  RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system	
+uhpB	eco_M00473  UhpB-UhpA (hexose phosphates uptake) two-component regulatory system	
+basS	"eco_M00451  BasS-BasR (antimicrobial peptide resistance) two-component regulatory system, eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00722  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptA"	
+pstB	eco_M00222  Phosphate transport system	
+yehY	eco_M00209  Osmoprotectant transport system	
+rcsD	eco_M00474  RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system	
+lsrD	eco_M00219  AI-2 transport system	
+ydcU	eco_M00193  Putative spermidine/putrescine transport system	
+metQ	eco_M00238  D-Methionine transport system	
+lsrB	eco_M00219  AI-2 transport system	
+mdtJ	"eco_M00711  Multidrug resistance, efflux pump MdtIJ"	
+osmF	eco_M00209  Osmoprotectant transport system	
+yphF	eco_M00221  Putative simple sugar transport system	
+murP	"eco_M00303  PTS system, N-acetylmuramic acid-specific II component"	
+btuF	eco_M00241  Vitamin B12 transport system	
+arnC	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"	"eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"
+thiQ	eco_M00191  Thiamine transport system	
+mdtC	"eco_M00648  Multidrug resistance, efflux pump MdtABC"	
+ycjN	eco_M00207  Putative multiple sugar transport system	
+arnT	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon"	
+mprA	"eco_M00701  Multidrug resistance, efflux pump EmrAB"	
+yejB	eco_M00349  Microcin C transport system	
+ydcS	eco_M00193  Putative spermidine/putrescine transport system	
+yejA	eco_M00349  Microcin C transport system	
+yfbB	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+yejE	eco_M00349  Microcin C transport system	
+thiP	eco_M00191  Thiamine transport system	
+yajC	eco_M00335  Sec (secretion) system	
+macA	"eco_M00709  Macrolide resistance, MacAB-TolC transporter"	
+yehW	eco_M00209  Osmoprotectant transport system	
+yejF	eco_M00349  Microcin C transport system	
+fryC	"eco_M00306  PTS system, fructose-specific II-like component"	
+ybhS	eco_M00254  ABC-2 type transport system	
+macB	"eco_M00709  Macrolide resistance, MacAB-TolC transporter"	
+mog		"eco_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+lsrC	eco_M00219  AI-2 transport system	
+astA		"eco_M00879  Arginine succinyltransferase pathway, arginine => glutamate"
+cysM	"eco_M00021  Cysteine biosynthesis, serine => cysteine"	
+gspG	eco_M00331  Type II general secretion pathway	
+holE	"eco_M00260  DNA polymerase III complex, bacteria"	
+sapF	eco_M00739  Cationic peptide transport system	
+acrB	"eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF"	
+fepC	eco_M00240  Iron complex transport system	
+entC	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	
+moeA		"eco_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+paaJ		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+ccmB	eco_M00259  Heme transport system	
+gspH	eco_M00331  Type II general secretion pathway	
+yrbC	eco_M00210  Phospholipid transport system	
+menE	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+gspJ	eco_M00331  Type II general secretion pathway	
+fliY	eco_M00234  Cystine transport system	
+galF	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes, eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose"	"eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose, eco_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch"
+ygiS	eco_M00239  Peptides/nickel transport system	
+yrbD	eco_M00210  Phospholipid transport system	
+menC	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+ubiE	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone, eco_M00117  Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol, eco_M00117  Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone"
+gspK	eco_M00331  Type II general secretion pathway	
+holD	"eco_M00260  DNA polymerase III complex, bacteria"	
+yadG	eco_M00254  ABC-2 type transport system	
+secG	eco_M00335  Sec (secretion) system	
+tauB	eco_M00435  Taurine transport system	
+yrbE	eco_M00210  Phospholipid transport system	
+paaA		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+ytfQ	eco_M00221  Putative simple sugar transport system	
+fhuC	eco_M00240  Iron complex transport system	
+tauC	eco_M00435  Taurine transport system	
+ybbL	eco_M00211  Putative ABC transport system	
+moaC		"eco_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+paaF	eco_M00087  beta-Oxidation	"eco_M00087  beta-Oxidation, eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+paaB		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+amiA	"eco_M00727  Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC"	
+ugd	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes"	
+oppB	eco_M00439  Oligopeptide transport system	
+fhuD	eco_M00240  Iron complex transport system	
+gspC	eco_M00331  Type II general secretion pathway	
+ybbA	eco_M00258  Putative ABC transport system	
+paaG		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+paaC		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+astE		"eco_M00879  Arginine succinyltransferase pathway, arginine => glutamate"
+hemF	"eco_M00121  Heme biosynthesis, glutamate => heme"	"eco_M00121  Heme biosynthesis, plants and bacteria, glutamate => heme"
+lpxM	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+dppA	eco_M00324  Dipeptide transport system	
+frvA	"eco_M00306  PTS system, fructose-specific II-like component"	
+oppF	eco_M00439  Oligopeptide transport system	
+holC	"eco_M00260  DNA polymerase III complex, bacteria"	
+fhuB	eco_M00240  Iron complex transport system	
+gspE	eco_M00331  Type II general secretion pathway	
+moaE		"eco_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+yggF		"eco_M00003  Gluconeogenesis, oxaloacetate => fructose-6P"
+yghD	eco_M00331  Type II general secretion pathway	
+paaE		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+menA	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+secB	eco_M00335  Sec (secretion) system	
+rffE	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes"	
+proX	eco_M00208  Glycine betaine/proline transport system	
+metN	eco_M00238  D-Methionine transport system	
+gspF	eco_M00331  Type II general secretion pathway	
+mdlA	"eco_M00707  Multidrug resistance, MdlAB/SmdAB transporter"	
+malF	eco_M00194  Maltose/maltodextrin transport system	
+fecE	eco_M00240  Iron complex transport system	
+ugpE	eco_M00198  Putative sn-glycerol-phosphate transport system	
+nikC	eco_M00440  Nickel transport system	
+dppB	eco_M00324  Dipeptide transport system	
+ssuA	eco_M00436  Sulfonate transport system	
+cysA	"eco_M00185  Sulfate transport system, eco_M00616  Sulfate-sulfur assimilation"	eco_M00616  Sulfate-sulfur assimilation
+yphE	eco_M00221  Putative simple sugar transport system	
+glgP		"eco_M00855  Glycogen degradation, glycogen => glucose-6P"
+gsiC	eco_M00348  Glutathione transport system	
+potC	eco_M00299  Spermidine/putrescine transport system	
+sapC	eco_M00739  Cationic peptide transport system	
+rpmG	"eco_M00178  Ribosome, bacteria"	
+ydcV	eco_M00193  Putative spermidine/putrescine transport system	
+chbC	"eco_M00275  PTS system, cellobiose-specific II component"	
+livJ	eco_M00237  Branched-chain amino acid transport system	
+araG	eco_M00213  L-Arabinose transport system	
+yehX	eco_M00209  Osmoprotectant transport system	
+pstA	eco_M00222  Phosphate transport system	
+gltL	eco_M00230  Glutamate/aspartate transport system	
+sbp	"eco_M00185  Sulfate transport system, eco_M00616  Sulfate-sulfur assimilation"	eco_M00616  Sulfate-sulfur assimilation
+sgcB	"eco_M00279  PTS system, galactitol-specific II component"	
+malE	eco_M00194  Maltose/maltodextrin transport system	
+fecC	eco_M00240  Iron complex transport system	
+ugpA	eco_M00198  Putative sn-glycerol-phosphate transport system	
+nikD	eco_M00440  Nickel transport system	
+xylF	eco_M00215  D-Xylose transport system	
+arnA	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"	"eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"
+tbpA	eco_M00191  Thiamine transport system	
+fryA	"eco_M00306  PTS system, fructose-specific II-like component"	
+cysU	"eco_M00185  Sulfate transport system, eco_M00616  Sulfate-sulfur assimilation"	eco_M00616  Sulfate-sulfur assimilation
+mppA	eco_M00439  Oligopeptide transport system	
+glgA		"eco_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch"
+modB	eco_M00189  Molybdate transport system	
+ssuB	eco_M00436  Sulfonate transport system	
+potA	eco_M00299  Spermidine/putrescine transport system	
+sapB	eco_M00739  Cationic peptide transport system	
+tatC	eco_M00336  Twin-arginine translocation (Tat) system	
+ddpF	eco_M00239  Peptides/nickel transport system	
+chbB	"eco_M00275  PTS system, cellobiose-specific II component"	
+araF	eco_M00213  L-Arabinose transport system	
+mglC	eco_M00214  Methyl-galactoside transport system	
+pstC	eco_M00222  Phosphate transport system	
+gltK	eco_M00230  Glutamate/aspartate transport system	
+malK	"eco_M00194  Maltose/maltodextrin transport system, eco_M00207  Putative multiple sugar transport system"	
+yrbF	eco_M00210  Phospholipid transport system	
+ugpB	eco_M00198  Putative sn-glycerol-phosphate transport system	
+nikE	eco_M00440  Nickel transport system	
+rpmF	"eco_M00178  Ribosome, bacteria"	
+xylG	eco_M00215  D-Xylose transport system	
+cmk	"eco_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	
+fruA	"eco_M00273  PTS system, fructose-specific II component"	
+potB	eco_M00299  Spermidine/putrescine transport system	
+cysP	"eco_M00185  Sulfate transport system, eco_M00616  Sulfate-sulfur assimilation"	eco_M00616  Sulfate-sulfur assimilation
+proV	eco_M00208  Glycine betaine/proline transport system	
+glgX		"eco_M00855  Glycogen degradation, glycogen => glucose-6P"
+galU	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes, eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose"	"eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose, eco_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch"
+modC	eco_M00189  Molybdate transport system	
+potF	eco_M00300  Putrescine transport system	
+sapA	eco_M00739  Cationic peptide transport system	
+ddpD	eco_M00239  Peptides/nickel transport system	
+rpsF	"eco_M00178  Ribosome, bacteria"	
+mglA	eco_M00214  Methyl-galactoside transport system	
+dnaQ	"eco_M00260  DNA polymerase III complex, bacteria"	
+pstS	eco_M00222  Phosphate transport system	
+gltJ	eco_M00230  Glutamate/aspartate transport system	
+frwC	"eco_M00306  PTS system, fructose-specific II-like component"	
+fabH	"eco_M00082  Fatty acid biosynthesis, initiation, eco_M00083  Fatty acid biosynthesis, elongation"	"eco_M00082  Fatty acid biosynthesis, initiation"
+malY		"eco_M00017  Methionine biosynthesis, apartate => homoserine => methionine"
+sgcA	"eco_M00279  PTS system, galactitol-specific II component"	
+livG	eco_M00237  Branched-chain amino acid transport system	
+xylH	eco_M00215  D-Xylose transport system	
+fruB	"eco_M00273  PTS system, fructose-specific II component"	
+acrD	"eco_M00646  Multidrug resistance, efflux pump AcrAD-TolC"	
+proW	eco_M00208  Glycine betaine/proline transport system	
+glgB		"eco_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch"
+cysW	"eco_M00185  Sulfate transport system, eco_M00616  Sulfate-sulfur assimilation"	eco_M00616  Sulfate-sulfur assimilation
+potI	eco_M00300  Putrescine transport system	
+yccA	"eco_M00742  Aminoglycoside resistance, protease FtsH"	
+ycjO	eco_M00207  Putative multiple sugar transport system	
+emrA	"eco_M00701  Multidrug resistance, efflux pump EmrAB"	
+rpmE	"eco_M00178  Ribosome, bacteria"	
+ddpC	eco_M00239  Peptides/nickel transport system	
+rplI	"eco_M00178  Ribosome, bacteria"	
+btuD	eco_M00241  Vitamin B12 transport system	
+manX	"eco_M00276  PTS system, mannose-specific II component"	
+mglB	eco_M00214  Methyl-galactoside transport system	
+nagE	"eco_M00267  PTS system, N-acetylglucosamine-specific II component"	
+frwB	"eco_M00306  PTS system, fructose-specific II-like component"	
+alsC	eco_M00217  D-Allose transport system	
+livM	eco_M00237  Branched-chain amino acid transport system	
+mtlA	"eco_M00274  PTS system, mannitol-specific II component"	
+galT	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes, eco_M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose, eco_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"	"eco_M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose, eco_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+srlB	"eco_M00280  PTS system, glucitol/sorbitol-specific II component"	
+malQ		"eco_M00855  Glycogen degradation, glycogen => glucose-6P"
+araH	eco_M00213  L-Arabinose transport system	
+glnQ	eco_M00227  Glutamine transport system	
+artM	eco_M00229  Arginine transport system	
+ycjP	eco_M00207  Putative multiple sugar transport system	
+emrB	"eco_M00701  Multidrug resistance, efflux pump EmrAB"	
+ddpB	eco_M00239  Peptides/nickel transport system	
+manZ	"eco_M00276  PTS system, mannose-specific II component"	
+yecS	eco_M00234  Cystine transport system	
+fepD	eco_M00240  Iron complex transport system	
+rbsA	eco_M00212  Ribose transport system	
+amiB	"eco_M00727  Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC"	
+frwD	"eco_M00306  PTS system, fructose-specific II-like component"	
+alsB	eco_M00217  D-Allose transport system	
+livH	eco_M00237  Branched-chain amino acid transport system	
+dppF	eco_M00324  Dipeptide transport system	
+rpmI	"eco_M00178  Ribosome, bacteria"	
+modF	eco_M00189  Molybdate transport system	
+galE	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes, eco_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"	"eco_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+ascF	"eco_M00272  PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II component"	
+cmtA	"eco_M00274  PTS system, mannitol-specific II component"	
+glnP	eco_M00227  Glutamine transport system	
+artQ	eco_M00229  Arginine transport system	
+oppD	eco_M00439  Oligopeptide transport system	
+btuC	eco_M00241  Vitamin B12 transport system	
+rob	"eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF"	
+fepB	eco_M00240  Iron complex transport system	
+rbsC	eco_M00212  Ribose transport system	
+ulaB	"eco_M00283  PTS system, ascorbate-specific II component, eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"	"eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"
+treB	"eco_M00270  PTS system, trehalose-specific II component"	
+livK	eco_M00237  Branched-chain amino acid transport system	
+dppD	eco_M00324  Dipeptide transport system	
+tauA	eco_M00435  Taurine transport system	
+hisP	"eco_M00225  Lysine/arginine/ornithine transport system, eco_M00226  Histidine transport system"	
+cmtB	"eco_M00274  PTS system, mannitol-specific II component"	
+glnH	eco_M00227  Glutamine transport system	
+tdcD		"eco_M00432  Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate"
+artI	eco_M00229  Arginine transport system	
+ptsG	"eco_M00265  PTS system, glucose-specific II component"	
+tatA	eco_M00336  Twin-arginine translocation (Tat) system	
+fecD	eco_M00240  Iron complex transport system	
+ulaC	"eco_M00283  PTS system, ascorbate-specific II component, eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"	"eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"
+nikA	eco_M00440  Nickel transport system	
+dppC	eco_M00324  Dipeptide transport system	
+hisJ	eco_M00226  Histidine transport system	
+artJ	eco_M00229  Arginine transport system	
+crr	"eco_M00265  PTS system, glucose-specific II component, eco_M00266  PTS system, maltose/glucose-specific II component, eco_M00270  PTS system, trehalose-specific II component, eco_M00272  PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II component, eco_M00303  PTS system, N-acetylmuramic acid-specific II component"	
+yphD	eco_M00221  Putative simple sugar transport system	
+menF	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+artP	eco_M00229  Arginine transport system	
+potD	eco_M00299  Spermidine/putrescine transport system	
+lysS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+sapD	eco_M00739  Cationic peptide transport system	
+ydcT	eco_M00193  Putative spermidine/putrescine transport system	
+lysU	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+lsrA	eco_M00219  AI-2 transport system	
+chbA	"eco_M00275  PTS system, cellobiose-specific II component"	
+ugpC	eco_M00198  Putative sn-glycerol-phosphate transport system	
+maoC		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+znuB	eco_M00242  Zinc transport system	
+hemN	"eco_M00121  Heme biosynthesis, glutamate => heme"	"eco_M00121  Heme biosynthesis, plants and bacteria, glutamate => heme"
+bglF	"eco_M00271  PTS system, beta-glucoside-specific II component"	
+tatE	eco_M00336  Twin-arginine translocation (Tat) system	
+mngA	"eco_M00305  PTS system, 2-O-A-mannosyl-D-glycerate-specific II component"	
+fecB	eco_M00240  Iron complex transport system	
+malG	eco_M00194  Maltose/maltodextrin transport system	
+cusS	eco_M00452  CusS-CusR (copper tolerance) two-component regulatory system	
+gspL	eco_M00331  Type II general secretion pathway	
+eptA	"eco_M00722  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptA"	
+ytfT	eco_M00221  Putative simple sugar transport system	
+gltI	eco_M00230  Glutamate/aspartate transport system	
+marA	"eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF, eco_M00746  Multidrug resistance, repression of porin OmpF"	"eco_M00746  Multidrug resistance, repression of porin OmpF"
+menD	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+tolC	"eco_M00646  Multidrug resistance, efflux pump AcrAD-TolC, eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF, eco_M00696  Multidrug resistance, efflux pump AcrEF-TolC, eco_M00697  Multidrug resistance, efflux pump MdtEF-TolC, eco_M00709  Macrolide resistance, MacAB-TolC transporter"	"eco_M00696  Multidrug resistance, efflux pump AcrEF-TolC, eco_M00697  Multidrug resistance, efflux pump MdtEF-TolC"
+amiC	"eco_M00727  Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC"	
+arnB	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon, eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"	"eco_M00761  Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N"
+gspI	eco_M00331  Type II general secretion pathway	
+fryB	"eco_M00306  PTS system, fructose-specific II-like component"	
+yjfO		"eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"
+yjfF	eco_M00221  Putative simple sugar transport system	
+modA	eco_M00189  Molybdate transport system	
+arnF	"eco_M00721  Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon"	
+frvB	"eco_M00306  PTS system, fructose-specific II-like component"	
+yfhK	eco_M00502  GlrK-GlrR (amino sugar metabolism) two-component regulatory system	
+ulaA	"eco_M00283  PTS system, ascorbate-specific II component, eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"	
+paaH		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+ybbM	eco_M00211  Putative ABC transport system	
+oppC	eco_M00439  Oligopeptide transport system	
+mdlB	"eco_M00707  Multidrug resistance, MdlAB/SmdAB transporter"	
+ybhF	eco_M00254  ABC-2 type transport system	
+ddpA	eco_M00239  Peptides/nickel transport system	
+ynjB	eco_M00192  Putative thiamine transport system	
+metI	eco_M00238  D-Methionine transport system	
+sgcC	"eco_M00279  PTS system, galactitol-specific II component"	
+ykgO	"eco_M00178  Ribosome, bacteria"	
+srlA	"eco_M00280  PTS system, glucitol/sorbitol-specific II component"	
+ynjC	eco_M00192  Putative thiamine transport system	
+ybhR	eco_M00254  ABC-2 type transport system	
+ykgM	"eco_M00178  Ribosome, bacteria"	
+srlE	"eco_M00280  PTS system, glucitol/sorbitol-specific II component"	
+paaK		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+gntR		"eco_M00022  Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate"
+dsbA	"eco_M00728  Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading factors DegP and DsbA"	
+paaD		"eco_M00878  Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+tatB	eco_M00336  Twin-arginine translocation (Tat) system	
+ssuC	eco_M00436  Sulfonate transport system	
+astD		"eco_M00879  Arginine succinyltransferase pathway, arginine => glutamate"
+ccmA	eco_M00259  Heme transport system	
+yhhJ	eco_M00254  ABC-2 type transport system	
+kdpE	eco_M00454  KdpD-KdpE (potassium transport) two-component regulatory system	
+ytfR	eco_M00221  Putative simple sugar transport system	
+ynjD	eco_M00192  Putative thiamine transport system	
+gspD	eco_M00331  Type II general secretion pathway	
+eptB	"eco_M00723  Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptB"	
+mdtA	"eco_M00648  Multidrug resistance, efflux pump MdtABC"	
+gspM	eco_M00331  Type II general secretion pathway	
+ptsA	"eco_M00306  PTS system, fructose-specific II-like component"	
+ynhF		"eco_M00746  Multidrug resistance, repression of porin OmpF"
+micF	"eco_M00746  Multidrug resistance, repression of porin OmpF"	
+dppA	eco_M00324  Dipeptide transport system	
+ymiB		eco_M00153  Cytochrome bd ubiquinol oxidase
+yccB	eco_M00153  Cytochrome bd ubiquinol oxidase	
+ykgO	"eco_M00178  Ribosome, bacteria"	
+rne	eco_M00394  RNA degradosome	
+aspS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+rplD	"eco_M00178  Ribosome, bacteria"	
+rpoC	"eco_M00183  RNA polymerase, bacteria"	
+rpsE	"eco_M00178  Ribosome, bacteria"	
+cysS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+serS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+trpS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+dnaE	"eco_M00260  DNA polymerase III complex, bacteria"	
+tyrS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+dnaX	"eco_M00260  DNA polymerase III complex, bacteria"	
+valS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+eno	"eco_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate, eco_M00002  Glycolysis, core module involving three-carbon compounds, eco_M00003  Gluconeogenesis, oxaloacetate => fructose-6P, eco_M00394  RNA degradosome"	"eco_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate, eco_M00002  Glycolysis, core module involving three-carbon compounds, eco_M00003  Gluconeogenesis, oxaloacetate => fructose-6P"
+yidC	eco_M00335  Sec (secretion) system	
+ftsE	eco_M00256  Cell division transport system	
+ftsH	"eco_M00742  Aminoglycoside resistance, protease FtsH"	
+ftsX	eco_M00256  Cell division transport system	
+lpxH	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+glmU	"eco_M00362  Nucleotide sugar biosynthesis, prokaryotes"	
+gltX	"eco_M00121  Heme biosynthesis, glutamate => heme, eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes, eco_M00846  Siroheme biosynthesis, glutamate => siroheme"	"eco_M00121  Heme biosynthesis, plants and bacteria, glutamate => heme, eco_M00846  Siroheme biosynthesis, glutamate => siroheme"
+glyQ	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+holA	"eco_M00260  DNA polymerase III complex, bacteria"	
+holB	"eco_M00260  DNA polymerase III complex, bacteria"	
+kdtA	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+lpxA	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+lpxB	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+lpxC	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+lpxC	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+lpxC	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+pheS	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+pheT	"eco_M00360  Aminoacyl-tRNA biosynthesis, prokaryotes"	
+kdtA	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+kdtA	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+pyrH		"eco_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+aidB		"eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"
+mdtI	"eco_M00711  Multidrug resistance, efflux pump MdtIJ"	
+ybbP	eco_M00258  Putative ABC transport system	
+pagP	"eco_M00724  Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP"	
+rplA	"eco_M00178  Ribosome, bacteria"	
+lpxL	"eco_M00060  Lipopolysaccharide biosynthesis, KDO2-lipid A"	"eco_M00060  KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type"
+fepG	eco_M00240  Iron complex transport system	
+hisM	"eco_M00225  Lysine/arginine/ornithine transport system, eco_M00226  Histidine transport system"	
+leuB	"eco_M00432  Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate"	
+alsA	eco_M00217  D-Allose transport system	
+ulaG	"eco_M00550  Ascorbate degradation, ascorbate => D-xylulose-5P"	
+mdtB	"eco_M00648  Multidrug resistance, efflux pump MdtABC"	
+hisQ	"eco_M00225  Lysine/arginine/ornithine transport system, eco_M00226  Histidine transport system"	
+pnp	eco_M00394  RNA degradosome	
+yadH	eco_M00254  ABC-2 type transport system	
+astC		"eco_M00879  Arginine succinyltransferase pathway, arginine => glutamate"
+gsiD	eco_M00348  Glutathione transport system	
+argT	eco_M00225  Lysine/arginine/ornithine transport system	
+potG	eco_M00300  Putrescine transport system	
+gspB	eco_M00331  Type II general secretion pathway	
+nemR		"eco_M00144  NADH:quinone oxidoreductase, prokaryotes"
+malP		"eco_M00855  Glycogen degradation, glycogen => glucose-6P"
+nlpA	eco_M00238  D-Methionine transport system	
+manY	"eco_M00276  PTS system, mannose-specific II component"	
+torS	eco_M00455  TorS-TorR (TMAO respiration) two-component regulatory system	
+gsiB	eco_M00348  Glutathione transport system	
+ydiI	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+yecC	eco_M00234  Cystine transport system	
+acrR	"eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF"	
+livF	eco_M00237  Branched-chain amino acid transport system	
+rpsT	"eco_M00178  Ribosome, bacteria"	
+menB	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinone"	"eco_M00116  Menaquinone biosynthesis, chorismate => menaquinol"
+gatB	"eco_M00279  PTS system, galactitol-specific II component"	
+nikB	eco_M00440  Nickel transport system	
+znuA	eco_M00242  Zinc transport system	
+aroK	"eco_M00022  Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate"	
+baeR	"eco_M00450  BaeS-BaeR (envelope stress response) two-component regulatory system, eco_M00646  Multidrug resistance, efflux pump AcrAD-TolC, eco_M00648  Multidrug resistance, efflux pump MdtABC"	
+acrA	"eco_M00646  Multidrug resistance, efflux pump AcrAD-TolC, eco_M00647  Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF"	
